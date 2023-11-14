@@ -157,79 +157,79 @@ hr{
 .gal-pos img{
     width: 300px;
 }
-.img1 img{
+.img1{
     translate:300px;
     rotate: -45deg; 
     border: 2px solid white;
     cursor: pointer;
     filter: grayscale(100%);
 }
-.img1 img:hover{
+.img1:hover{
     scale:1;
     rotate: 0deg;
     z-index: 10;
     filter: grayscale(0%);
 }
-.img2 img{
+.img2{
     translate:200px -100px;
     rotate: 20deg;
     border: 2px solid white;
     cursor: pointer;
     filter: grayscale(100%);
 }
-.img3 img{
+.img3{
     translate:-10px 70px;
     rotate: -5deg;
     border: 2px solid white;
     cursor: pointer;
     filter: grayscale(100%);
 }
-.img4 img{
+.img4{
     translate:-150px -50px;
     rotate: -05deg;
     border: 2px solid white;
     cursor: pointer;
     filter: grayscale(100%);
 }
-.img5 img{
+.img5{
     translate:-330px 120px;
     rotate: 35deg;
     border: 2px solid white;
     cursor: pointer;
     filter: grayscale(100%);
 }
-.img6 img{
+.img6{
     translate:-500px -70px;
     rotate: 15deg;
     border: 2px solid white;
     cursor: pointer;
     filter: grayscale(100%);
 }
-.img2 img:hover{
+.img2:hover{
     scale:1.5;
     rotate: 0deg;
     z-index: 10;
     filter: grayscale(0%);
 }
-.img3 img:hover{
+.img3:hover{
     scale:1.5;
     rotate: 0deg;
     z-index: 10;
     filter: grayscale(0%);
 }
-.img4 img:hover{
+.img4:hover{
     scale:1.5;
     rotate: 0deg;
     z-index: 10;
     filter: grayscale(0%);
 }
-.img5 img:hover{
+.img5:hover{
     scale:1.5;
     rotate: 0deg;
     z-index: 10;
     filter: grayscale(0%);
 }
-.img6 img:hover{
+.img6:hover{
     scale:1.5;
     rotate: 0deg;
     z-index: 10;
@@ -299,68 +299,68 @@ hr{
         margin-top: 20px;
         padding-left: 10px;
     }
-    .img1 img{
+    .img1{
         translate:0px 0px;
         rotate: 0deg;
         border: 2px solid white;
         cursor: pointer;
     }
-    .img2 img{
+    .img2{
         translate:0px 0px;
         rotate: 0deg;
         border: 2px solid white;
         cursor: pointer;
     }
-    .img3 img{
+    .img3{
         translate:0px 0px;
         rotate: 0deg;
         border: 2px solid white;
         cursor: pointer;
     }
-    .img4 img{
+    .img4{
         translate:0px 0px;
         rotate: 0deg;
         border: 2px solid white;
         cursor: pointer;
     }
-    .img5 img{
+    .img5{
         translate:0px 0px;
         rotate: 0deg;
         border: 2px solid white;
         cursor: pointer;
     }
-    .img6 img{
+    .img6{
         translate:0px 0px;
         rotate: 0deg;
         border: 2px solid white;
         cursor: pointer;
     }
-    .img1 img:hover{
+    .img1:hover{
         scale:1;
         rotate: 0deg;
         z-index: 10;
     }
-    .img2 img:hover{
+    .img2:hover{
         scale:1;
         rotate: 0deg;
         z-index: 10;
     }
-    .img3 img:hover{
+    .img3:hover{
         scale:1;
         rotate: 0deg;
         z-index: 10;
     }
-    .img4 img:hover{
+    .img4:hover{
         scale:1;
         rotate: 0deg;
         z-index: 10;
     }
-    .img5 img:hover{
+    .img5:hover{
         scale:1;
         rotate: 0deg;
         z-index: 10;
     }
-    .img6 img:hover{
+    .img6:hover{
         scale:1;
         rotate: 0deg;
         z-index: 10;
@@ -428,68 +428,68 @@ hr{
             margin-top: 20px;
             padding-left: 10px;
         }
-        .img1 img{
+        .img1{
             translate:0px 0px;
             rotate: 0deg;
             border: 2px solid white;
             cursor: pointer;
         }
-        .img2 img{
+        .img2{
             translate:0px 0px;
             rotate: 0deg;
             border: 2px solid white;
             cursor: pointer;
         }
-        .img3 img{
+        .img3{
             translate:0px 0px;
             rotate: 0deg;
             border: 2px solid white;
             cursor: pointer;
         }
-        .img4 img{
+        .img4{
             translate:0px 0px;
             rotate: 0deg;
             border: 2px solid white;
             cursor: pointer;
         }
-        .img5 img{
+        .img5{
             translate:0px 0px;
             rotate: 0deg;
             border: 2px solid white;
             cursor: pointer;
         }
-        .img6 img{
+        .img6{
             translate:0px 0px;
             rotate: 0deg;
             border: 2px solid white;
             cursor: pointer;
         }
-        .img1 img:hover{
+        .img1:hover{
             scale:1;
             rotate: 0deg;
             z-index: 10;
         }
-        .img2 img:hover{
+        .img2:hover{
             scale:1;
             rotate: 0deg;
             z-index: 10;
         }
-        .img3 img:hover{
+        .img3:hover{
             scale:1;
             rotate: 0deg;
             z-index: 10;
         }
-        .img4 img:hover{
+        .img4:hover{
             scale:1;
             rotate: 0deg;
             z-index: 10;
         }
-        .img5 img:hover{
+        .img5:hover{
             scale:1;
             rotate: 0deg;
             z-index: 10;
         }
-        .img6 img:hover{
+        .img6:hover{
             scale:0;
             rotate: 0deg;
             z-index: 10;
